@@ -18,5 +18,5 @@ OWNER_ID = os.getenv("OWNER_ID",6829300557)
 OWNER_USERNAME = "NoT_uR_SoHeL"
 
 # Support group and update channel names
-SUPPORT_GROUP = "CHILL_x_ZoNe"
+SUPPORT_GROUP = "https://t.me/+VHr8OjZnOJs4NzY9"
 UPDATE_CHANNEL = "SpIcYxNeTwOrK"
