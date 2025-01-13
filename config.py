@@ -15,7 +15,7 @@ MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://immaxim:SH251204@cluster0.xi8w
 
 # Bot owner's Telegram user ID and username
 OWNER_ID = os.getenv("OWNER_ID",6829300557)
-OWNER_USERNAME = "NoT_uR_SoHeL"
+OWNER_USERNAME = "NoMoreMaxim"
 
 # Support group and update channel names
 SUPPORT_GROUP = "https://t.me/+VHr8OjZnOJs4NzY9"
