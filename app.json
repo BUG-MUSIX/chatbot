@@ -41,22 +41,22 @@
     "OWNER_USERNAME": {
       "description": "Username of the bot owner",
       "required": true,
-      "value": "JARVIS_V2"
+      "value": "NoMoreMaxim"
     },
     "GPT_API": {
       "description": "Your GPT API Key from OpenAI.",
       "value": "",
-      "required": true
+      "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Name of the support group",
       "required": true,
-      "value": "Dora_Hub"
+      "value": "https://t.me/+VHr8OjZnOJs4NzY9"
     },
     "UPDATE_CHANNEL": {
       "description": "Name of the update channel",
       "required": true,
-      "value": "JARVIS_V_SUPPORT"
+      "value": "SpIcYxNeTwOrK"
     }
   }
 }
